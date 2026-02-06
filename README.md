@@ -43,7 +43,7 @@ pip install numpy matplotlib scikit-image
 Execute o script principal para processar o dataset de exemplo e visualizar os resultados:
 
 ```bash
-python filtroslineares_modificado.py
+python filtroslineares_pratice.py
 
 ```
 
