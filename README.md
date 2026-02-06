@@ -54,5 +54,3 @@ O algoritmo processa imagens em tons de cinza, aplica o ruído selecionado e uti
 ---
 
 Desenvolvido por Rafael Ziani de Carvalho
-
-```
