@@ -54,6 +54,5 @@ O algoritmo processa imagens em tons de cinza, aplica o ruído selecionado e uti
 ---
 
 Desenvolvido por Rafael Ziani de Carvalho
-Gostaria que eu fizesse alguma alteração específica no código ou na explicação para incluir os detalhes sobre o dataset **CARABAS-II** que você mencionou anteriormente?
 
 ```
